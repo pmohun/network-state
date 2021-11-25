@@ -1,2 +1,5 @@
-# network-state
-Reading list and knowledge base for 1729 Network State series
+# Get Started
+
+## Star the repo
+
+Please submit changes to this docs site at: [https://github.com/pmohun/network-state](https://github.com/pmohun/network-state)
