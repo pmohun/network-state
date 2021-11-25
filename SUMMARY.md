@@ -2,6 +2,6 @@
 
 * [Get Started](README.md)
 
-## Knowledge Base
+## 📚 Knowledge Base
 
 * [Reading List](knowledge-base/reading-list.md)
